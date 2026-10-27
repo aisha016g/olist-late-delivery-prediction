@@ -5,3 +5,6 @@ __pycache__/
 venv/
 .venv/
 .DS_Store
+
+# Dataset (keep local, don't upload)
+olist_model_features.csv
